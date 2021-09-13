@@ -4,5 +4,6 @@
 #include <stdint.h>
 
 uint32_t nth(uint32_t n);
+uint32_t isPrime(unsigned int *lastPrime, unsigned int possiblePrime, unsigned int numPrim);
 
 #endif
